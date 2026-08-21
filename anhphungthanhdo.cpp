@@ -1,7 +1,6 @@
 #include <iostream>
 
 int main(){
-std::cout << "thang minh ngu" << std::endl;
-std::cout <<"minh homeless" << std::endl;
+std::cout << "Hello, World!" << std::endl;
 return 0;
 }
