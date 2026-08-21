@@ -1,31 +1,32 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
     //Header
-    std::cout << "====================\n";
-    std::cout << "  MY FIRST C++ APP\n";
-    std::cout << "====================\n";
+    cout << "====================\n";
+    cout << "  MY FIRST C++ APP\n";
+    cout << "====================\n";
     
     // Student Information
-    std::cout << "Name: Bui Vinh Thuy\n";
-    std::cout << "School: HCMUTE\n";
-    std::cout << "Major: Automotive Engineering\n";
-    std::cout << "Year: 2025-2029\n";
-    std::cout << "Course: Object-Oriented Programming\n";
+    cout << "Name: Bui Vinh Thuy\n";
+    cout << "School: HCMUTE\n";
+    cout << "Major: Automotive Engineering\n";
+    cout << "Year: 2025-2029\n";
+    cout << "Course: Object-Oriented Programming\n";
 
     //Personal Information
-    std::cout <<"\n";
-    std::cout <<"My favourite language is C++\n";
-    std::cout <<"My favourite food is Rau Ma\n";
-    std::cout <<"My favourite sport is Swimming\n";
-    std::cout <<"My target is to become a skilled C++ developer\n";
+    cout <<"\n";
+    cout <<"My favourite language is C++\n";
+    cout <<"My favourite food is Rau Ma\n";
+    cout <<"My favourite sport is Swimming\n";
+    cout <<"My target is to become a skilled C++ developer\n";
 
     //Footer
-    std::cout <<"\n";
-    std::cout << "====================\n";
-    std::cout << "  KEEP CODING!\n";
-    std::cout << "====================\n";
+    cout <<"\n";
+    cout << "====================\n";
+    cout << "  KEEP CODING!\n";
+    cout << "====================\n";
 
     return 0;
 }
